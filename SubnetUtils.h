@@ -1,5 +1,6 @@
 #include"SubnetHelper.h"
-
+//@autor Salvador Vera Franco 
+// SubnetUtils.h v 1.0
 csubnetutils* utils;
 
 void SubnetUtils(string cidrNotation){
