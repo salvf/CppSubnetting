@@ -1,4 +1,7 @@
 #include"csubnet.h"
+//@autor Salvador Vera Franco 
+// SubnetHelper.h v 1.0
+
 csubnetutils* helper;
 
             static const int MASK_ADDRESS_FORMAT=1;
