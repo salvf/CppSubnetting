@@ -1,4 +1,8 @@
 
+//@autor Salvador Vera Franco 
+// csubnet.h v 1.0
+
+
 #include <string>
 #include <regex>
 #include <math.h>
