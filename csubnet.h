@@ -273,7 +273,7 @@ class csubnethelper{
         ~csubnetutils(){}
 
     /**
-     * Returns <code>true</code> if the return value of {@link SubnetInfo#getAddressCount()}
+     * Returns <code>true</code> if the return value of {Info_getAddressCount()}
      * includes the network and broadcast addresses.
      *
      * @return true if the host count includes the network and broadcast addresses
@@ -282,7 +282,7 @@ class csubnethelper{
             return inclusiveHostCount;
         }
     /**
-     * Set to <code>true</code> if you want the return value of {@link SubnetInfo#getAddressCount()}
+     * Set to <code>true</code> if you want the return value of {Info_getAddressCount()}
      * to include the network and broadcast addresses.
      * @param inclusiveHostCount true if network and broadcast addresses are to be included
      *
