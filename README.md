@@ -1,3 +1,3 @@
-# Subnetting-
+# CppSubnetting
 C++ Subnet headers 
-We recommend compile with c++11
+Recommend compile with c++11
